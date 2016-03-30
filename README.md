@@ -17,5 +17,5 @@ You can compare two implementations to see the differences:
 ```mvn package``
 
 ### Run sample parsing
-```mvn package``
+```mvn package```
 ```java -jar parser/target/parser-1.0-SNAPSHOT-jar-with-dependencies.jar```
