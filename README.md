@@ -11,7 +11,7 @@ It uses both implementations (listener and visitor) where:
 
 You can compare two implementations to see the differences:
   * The Visitor implementation : ```VisitorOrientedParser.java```.
-  * The Listener implementation : ``ListenerOrientedParser.java```.
+  * The Listener implementation : ```ListenerOrientedParser.java```.
 
 ### Building
 ```mvn package``
