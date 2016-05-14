@@ -13,6 +13,9 @@ You can compare two implementations to see the differences:
   * The Visitor implementation : ```VisitorOrientedParser.java```.
   * The Listener implementation : ```ListenerOrientedParser.java```.
 
+The project is also described in [this blog post - Antlr 4 - Listener vs Visitor](http://jakubdziworski.github.io/java/2016/04/01/antlr_visitor_vs_listener.html)
+
+
 ### Building
 ```mvn package```
 
